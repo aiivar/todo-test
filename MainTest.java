@@ -1,5 +1,7 @@
 package ru.itis.todo;
 
-public static void main(String[] args) {
-    //TODO: test
+public class MainTest {
+    public static void main(String[] args) {
+        // TODO: test
+    }
 }
