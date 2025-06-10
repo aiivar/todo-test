@@ -2,9 +2,6 @@
 def login():
     pass
 
-"""
-TODO: Fix performance issue | priority: medium | category: optimization
-"""
 def process_data():
     pass
 
